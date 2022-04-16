@@ -1,0 +1,17 @@
+.card-container {
+  overflow: hidden;
+  box-shadow: 0px 0px 15px -5px;
+  float: right;
+  width: 300px;
+  height: 400px;
+  border: 3px solid;
+  padding: 10px;
+}
+
+.image-container img {
+  display: flex;
+  horizontal-align: center;
+  width: flex;
+  height: 200px;
+  padding: 10px;
+}
